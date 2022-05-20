@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Ma réu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="confirm_delete_caption">Confirm delete</string>
+    <string name="confirm_delete_desc">"You are about to delete a meeting. Do you really want to proceed ?"</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="sort_by_date">Sort by date</string>
+    <string name="sort_by_room">Sort by room</string>
+    <string name="no_sort">No sort</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="cancel">Cancel</string>
+    <string name="set">Set</string>
+    <string name="set_date">Set date</string>
+    <string name="set_time">Set Time</string>
+    <string name="date_format">EEE, MMM dd yyyy</string>
+    <string name="save">Save</string>
+    <string name="add_guest">Add guests</string>
+    <string name="filter_by_room">Filter by room</string>
+    <string name="no_filter">No filter</string>
+    <string name="filter_by_date">Filter by date</string>
+    <string name="select_option">Please select an option"</string>
+    <string name="apply">apply</string>
+    <string name="choose_room">Choose room</string>
+    <string name="ok">OK</string>
+    <string name="no_title">(No title)</string>
+    <string name="end_time">Heure fin</string>
+    <string name="start_time">Heure début</string>
+    <string name="topic">Topic</string>
+    <string name="invalid_email">email is not valid</string>
+    <string name="add_meeting">Add new meeting</string>
+    <string-array name="rooms_array">
+        <item>Room 1</item>
+        <item>Room 2</item>
+        <item>Room 3</item>
+        <item>Room 4</item>
+        <item>Room 5</item>
+        <item>Room 6</item>
+        <item>Room 7</item>
+        <item>Room 8</item>
+        <item>Room 9</item>
+        <item>Room 10</item>
+    </string-array>
+</resources>
