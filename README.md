@@ -1,7 +1,5 @@
 # OpenClassrooms
 
-This deposit contains a small application of P4 course **Grande École du Numérique**.
-
 ## Setup the project in Android studio
 1. `Clone or download` the project code at `https://github.com/depoulpe/Mareu`
 2. In Android Studio, select *File* | *Open...*
