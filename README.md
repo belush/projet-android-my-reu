@@ -1,7 +1,7 @@
 # OpenClassrooms
 
 ## Setup the project in Android studio
-1. `Clone or download` the project code at `https://github.com/depoulpe/Mareu`
+1. `Clone or download` the project code 
 2. In Android Studio, select *File* | *Open...*
 3. Select the `Mareu` project
 
